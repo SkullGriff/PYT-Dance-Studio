@@ -1,0 +1,388 @@
+body{
+  font-size: 16px
+}
+
+/*HomePage.css*/
+
+.links{
+background-color: #000000;
+height: 3.875rem;
+width:  3.6875rem;
+width: 3.4375rem;
+}
+
+.links img{
+  font-size: 50px;
+}
+
+.links ul{
+  font-family: Open Sans;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.header{
+  width: 45rem;
+  height: 9.4375rem;
+  height: 2.6875rem;
+  height: 5rem;
+  height: 3.125;
+}
+
+.header h1{
+  font-family: Roboto;
+  font-size: 3.125rem;
+  font-weight: bold;
+  color: #ffffff;
+  line-height: 1:
+}
+
+.header p{
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+.boxbuy{
+  height: 1.25rem;
+  width: 3.125rem;
+  border-radius: 2px;
+  background-color: #f5a623;
+  font-family: Open Sans;
+  font-size: 1.375rem;
+  font-weight: bold;
+}
+
+.secheader{
+  height: 31.25rem;
+  background-color: rgba(120, 73, 225, 0.9);
+  height: 20rem;
+  width: 25rem;
+}
+
+.secheader h2 p{
+  top: 5rem;
+  bottom: 1.25;
+  font-size: 2.25rem;
+  font-weight: bold;
+  line-height: 1.2;
+  left: 3rem;
+  font-size: 1.125;
+  line-height: 1.4;
+}
+
+.secheader h3{
+  font-weight: bold;
+}
+
+.thiheader{
+  height: 31.25rem;
+  background-color: rgba(173, 74, 226, 0.9);
+  height: 20rem;
+  width: 25rem;
+}
+
+.thiheader h2 p{
+  top: 5rem;
+  bottom: 1.25;
+  font-size: 2.25rem;
+  font-weight: bold;
+  line-height: 1.2;
+  left: 3rem;
+  font-size: 1.125;
+  line-height: 1.4;
+}
+
+.thiheader h3{
+  font-weight: bold;
+}
+
+.fouheader{
+  height: 31.25rem;
+  background-color: rgba(120, 73, 225, 0.9);
+  height: 20rem;
+  width: 25rem;
+}
+
+.fouheader h2 p{
+  top: 5rem;
+  bottom: 1.25;
+  font-size: 2.25rem;
+  font-weight: bold;
+  line-height: 1.2;
+  left: 3rem;
+  font-size: 1.125;
+  line-height: 1.4;
+}
+
+.fouheader h3{
+  font-weight: bold;
+}
+
+.contactscoial{
+  background-color: rgba(120, 73, 225, 0.9);
+  height: 3.125rem;
+
+}
+
+.address{
+  height: 15rem;
+}
+
+.address p{
+  height: 5rem;
+  font-size: .875rem;
+  letter-spacing: 0.7px;
+}
+/*HomePageEnd*/
+
+/*AboutPage.css*/
+
+.link  a.about{
+  color: #f5a623;
+}
+
+.about{
+  left: 50%;
+  right: 50%;
+  border-bottom: 10px, #794ae2;
+}
+
+.about h1{
+  font-size: 3.125rem;
+  font-weight: bold;
+  color: #794ae2;
+  bottom: 4rem;
+}
+
+.about p{
+  font-size: 1.5rem;
+  line-height: 1.5;
+  color: #666666;
+}
+
+.infoheader{
+  background-color: #f2f2f2;
+}
+
+.infoheader img{
+  height: 9.375rem;
+  right: 5rem;
+}
+
+.infoheader h1{
+  top: 4rem;
+  font-size: 2.25rem;
+  font-weight: bold;
+  color: #794ae2;
+}
+
+.infoheader p{
+  font-size: 1.5rem;
+  line-height: 1.5;
+  color: #666666;
+}
+
+.secinfoheader{
+  background-color: #ffffff;
+  left: 19%;
+  right: 19%;
+  bottom: 4rem;
+}
+
+.secinfoheader img{
+  height: 9.375rem;
+  left: 5rem;
+}
+
+.secinfoheader h1{
+  top: 4rem;
+  font-size: 2.25rem;
+  font-weight: bold;
+  color: #794ae2;
+}
+
+.secinfoheader p{
+  font-size: 1.5rem;
+  line-height: 1.5;
+  color: #666666;
+}
+
+.thiinfoheader{
+  background-color: #f2f2f2;
+  top: 4rem;
+}
+
+.thiinfoheader img{
+  height: 9.375rem;
+  right: 5rem;
+}
+
+.thiinfoheader h1{
+  top: 4rem;
+  font-size: 2.25rem;
+  font-weight: bold;
+  color: #794ae2;
+}
+
+.thiinfoheader p{
+  font-size: 1.5rem;
+  line-height: 1.5;
+  color: #666666;
+}
+
+.fouinfoheader{
+  left: 19%;
+  right: 19%;
+  bottom: 4rem;
+}
+
+.fouinfoheader img{
+  height: 9.375rem;
+  left: 5rem;
+}
+
+.fouinfoheader h1{
+  top: 4rem;
+  font-size: 2.25rem;
+  font-weight: bold;
+  color: #794ae2;
+}
+
+.fouinfoheader p{
+  font-size: 1.5rem;
+  line-height: 1.5;
+  color: #666666;
+}
+
+.mapaddress{
+  height: 31.25rem;
+  background-color: rgba(173, 74, 226, 0.9);
+  height: 20rem;
+  width: 25rem;
+}
+
+.mapaddress h2 p{
+  top: 5rem;
+  bottom: 1.25;
+  font-size: 2.25rem;
+  font-weight: bold;
+  line-height: 1.2;
+  left: 3rem;
+  font-size: 1.125;
+  line-height: 1.4;
+}
+/*AboutPageEnd*/
+
+.link a.classes{
+  color: #f5a623;
+}
+
+.classesheader{
+  left: 50%;
+  right: 50%;
+  border-bottom: 10px, #794ae2;
+}
+
+.classesheader h1{
+  font-size: 3.125rem;
+  font-weight: bold;
+  color: rgba(174, 75, 227, 0.9);
+  bottom: 4rem;
+}
+
+.classesheader p{
+  font-size: 1.5rem;
+  line-height: 1.5;
+  color: #666666;
+}
+
+.scheduleclassesheader{
+  background-color: #f2f2f2;
+  height: 5.3125rem;
+  bottom: 2.4rem;
+  left: 1.125rem;
+  right: 1.125rem;
+}
+
+.scheduleclassesheader h2{
+  bottom: 1.125rem;
+  font-size: 1.827rem;
+  font-weight: bold;
+  color: rgba(174, 75, 227, 0.9);
+}
+
+.scheduleclassesheader h3{
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+.scheduleclassesheader h4{
+  bottom: 1.125rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #000000;
+}
+
+.scheduleclassesheader p{
+  min-width: 25rem;
+  font-size: .875rem;
+  line-height: 1.7;
+}
+/*ClassesPageEnd*/
+
+/*FacultyPage.css*/
+
+.link  a.faculty{
+  color: #f5a623;
+}
+
+.facultyheader{
+  left: 50%;
+  right: 50%;
+  height: 9rem;
+  border-bottom: 10px, #8a54ff;
+}
+
+.facultyheader h1{
+  font-size: 3.125rem;
+  font-weight: bold;
+  color: #794ae2;
+  bottom: 4rem;
+}
+
+.facultyheader p{
+  font-size: 1.5rem;
+  line-height: 1.5;
+  color: #999999;
+  bottom: 11.25rem;
+}
+
+.facultylist{
+  height: 5.625rem;
+  left: 7.5rem;
+  right: 7.5rem;
+}
+
+.facultylist img{
+  min-width: 16.875rem;
+  bottom: 1.25rem;
+}
+
+.facultylist h2{
+  font-size: 1.875rem;
+  font-weight: bold;
+  color: #8a54ff;
+  top: .625rem;
+}
+
+.facultylist h3{
+  padding-bottom: .625rem;
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+.facultylist p{
+  line-height: 1.5;
+  bottom: 6.25rem;
+}
